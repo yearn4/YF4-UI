@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://swap.nsolarfarmdefi.com/#/swap',
+        href: 'http://swap.yearn4.finance/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'http://swap.nsolarfarmdefi.com/#/pool',
+        href: 'http://swap.yearn4.finance.com/#/pool',
       },
     ],
   },
